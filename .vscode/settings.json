@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "iostream": "cpp",
+        "string": "cpp"
     }
 }
