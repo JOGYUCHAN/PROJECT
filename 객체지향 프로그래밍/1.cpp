@@ -60,3 +60,4 @@ void RemoveAll() {
 	for(int i=0; i<words.size(); i++)
 		delete words[i];
 }
+//1234'
